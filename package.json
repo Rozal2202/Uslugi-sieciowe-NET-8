@@ -1,0 +1,29 @@
+{
+  "name": "uslugi-sieciowe-net-8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rozal2202/Uslugi-sieciowe-NET-8.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rozal2202/Uslugi-sieciowe-NET-8/issues"
+  },
+  "homepage": "https://github.com/Rozal2202/Uslugi-sieciowe-NET-8#readme",
+  "dependencies": {
+    "@types/express": "^5.0.6",
+    "@types/node": "^25.5.0",
+    "express": "^5.2.1",
+    "typescript": "^5.9.3"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2"
+  }
+}
